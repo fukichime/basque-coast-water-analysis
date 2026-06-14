@@ -1,0 +1,17 @@
+# Environments & IDEs
+.venv/
+env/
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+
+# Data (Keep the folders, ignore the heavy files)
+data/*.csv
+data/processed/*.csv
+
+# Models
+outputs/models/*.pkl
+outputs/models/*.csv
+
+# OS
+.DS_Store
