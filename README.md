@@ -125,7 +125,7 @@ This project uses the Basque Country Monitoring Network dataset. Please cite the
   journal = {Frontiers in Ocean Sustainability},
   volume  = {2},
   pages   = {1528837},
-  year    = {2024},
+  year    = {2025},
   doi     = {10.3389/focsu.2024.1528837}
 }
 ```
