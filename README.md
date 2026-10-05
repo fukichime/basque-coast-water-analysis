@@ -106,11 +106,11 @@ If you use this work, please cite:
 
 ```bibtex
 @misc{aygun2026coastal,
-  author       = {Esranur Ayg{\"u}n},
-  title        = {Coastal Water Quality Analysis: Clustering, Association Rules, and Spatial Networks for Hypoxia Drivers in the Basque Country (1995--2023)},
+  author       = {Esranur Aygün},
+  title        = {COASTAL WATER QUALITY ANALYSIS OF THE BASQUE COUNTRY (1995 TO 2023)},
   year         = {2026},
-  howpublished = {\url{<your-repo-url>}},
-  note         = {CMP5101 Data Mining Final Project, Bah\c{c}e\c{s}ehir University}
+  howpublished = {\url{https://github.com/fukichime/basque-coast-water-analysis.git}},
+  note         = {CMP5101 Data Mining Final Project, Bahçeşehir University}
 }
 ```
 
