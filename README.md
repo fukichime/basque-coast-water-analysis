@@ -60,18 +60,16 @@ For the detailed analysis, see the report: [Report-Esranur-Aygün-1904469-DataMi
 
 | Figure | Description |
 |--------|-------------|
-| ![Correlation](outputs/figures/correlation_matrix.png) | Chemical correlation matrix |
-| ![Spatial DO](outputs/figures/spatial_do.png) | Geospatial distribution of dissolved oxygen |
-| ![Class Balance](outputs/figures/oxygen_status_dist.png) | Distribution of oxygen status |
-| ![Boxplots](outputs/figures/feature_boxplots.png) | Feature scatter boxplots by oxygen status |
-| ![Clusters](outputs/figures/kmeans_scatter.png) | Dual scatter plots of K-Means regimes |
-| ![Apriori](outputs/figures/apriori_triggers.png) | Top environmental triggers for stress |
-| ![Tree](outputs/figures/decision_tree.png) | Decision tree structure |
-| ![Boundary](outputs/figures/tree_boundary.png) | Data spread and primary tree boundary |
-| ![Network](outputs/figures/spatial_network.png) | Spatial vulnerability network |
-| ![Trend](outputs/figures/temporal_trend.png) | Frequency of stress events over time |
-
-> Adjust the paths above to match your actual figure filenames.
+| ![Correlation](outputs/figures/eda_01_correlation.png) | Chemical correlation matrix |
+| ![Spatial Hotspots](outputs/figures/eda_02_spatial_hotspots.png) | Geospatial distribution of dissolved oxygen |
+| ![Target Balance](outputs/figures/eda_03_target_balance.png) | Distribution of oxygen status |
+| ![Boxplots](outputs/figures/eda_04_scatter_boxplots.png) | Feature scatter boxplots by oxygen status |
+| ![K-Means](outputs/figures/pres_01_kmeans_dual_scatter.png) | Dual scatter plots of K-Means regimes |
+| ![Apriori Rules](outputs/figures/pres_02_rules.png) | Top environmental triggers for stress |
+| ![Decision Tree](outputs/figures/pres_03_decision_tree.png) | Decision tree structure |
+| ![Tree Boundary](outputs/figures/pres_04_tree_boundary.png) | Data spread and primary tree boundary |
+| ![Spatial Network](outputs/figures/pres_05_spatial_network_clean.png) | Spatial vulnerability network |
+| ![Temporal Trend](outputs/figures/pres_06_temporal_trend.png) | Frequency of stress events over time |.
 
 ## How to Reproduce
 
